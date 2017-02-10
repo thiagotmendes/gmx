@@ -1,0 +1,27 @@
+{
+  "name": "gmx",
+  "version": "1.0.0",
+  "description": "Site onepage gmx",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagotmendes/gmx.git"
+  },
+  "author": "Thiago Mendes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagotmendes/gmx/issues"
+  },
+  "homepage": "https://github.com/thiagotmendes/gmx#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}

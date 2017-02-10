@@ -1,0 +1,22 @@
+{
+  "name": "gmx",
+  "description": "Site onepage gmx",
+  "main": "index.php",
+  "authors": [
+    "Thiago Mendes"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/thiagotmendes/gmx",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "Font-Awesome#^4.7.0",
+    "slick-carousel": "^1.6.0"
+  }
+}
